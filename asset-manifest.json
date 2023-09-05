@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/styled-todo/static/js/main.d1a93d15.js",
+    "index.html": "/styled-todo/index.html",
+    "main.d1a93d15.js.map": "/styled-todo/static/js/main.d1a93d15.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d1a93d15.js"
+  ]
+}
